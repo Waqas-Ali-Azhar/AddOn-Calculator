@@ -1,0 +1,50 @@
+
+.ib{
+  display: inline-block;
+}
+
+.heading{
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+}
+
+.calculator-wrapper{
+  border: 1px solid black;
+  border-radius: 8px;
+  width: 30%;
+  display: table;
+  margin: 0 auto;
+  padding: 60px 10px;
+  height: 200px;
+  position: relative;
+}
+
+span.control{
+  border:1px solid black;
+  color: red;
+  font-weight: 700;
+  padding: 4px 10px 7px 10px;
+}
+
+input[type=text]{
+  padding:6px 2px;
+  border-color: red;
+}
+
+div.total{
+  position: absolute;
+  bottom: 15px;
+  right: 40px;
+}
+
+div.item{
+  margin:0px 0px 15px 0px;
+}
+
+
+
+
+    
